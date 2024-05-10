@@ -14,3 +14,9 @@ To add an issue please visit the link below and copy paste the template into a n
 
 [Sample issue](https://github.com/ayepages/ayepages.github.io/issues/5)
 
+™ “Project AAB”, “Abundance for All & Beyond” and “a water-hole for life with AI” are claimed as trademark by Abhishek Choudhary
+
+(C) Copyright 2024 Abhishek Choudhary. All rights reserved. No usage without written consent and license
+
+All disputes are subject to the jurisdiction of courts in Hyderabad, Telangana, India only
+
