@@ -48,6 +48,8 @@ feature_row:
 
 (C) Copyright 2024 Abhishek Choudhary. All rights reserved. No usage without written consent and license
 
+First escrowed https://web.archive.org/web/20240510225516/https://projectaab.github.io/
+
 All disputes are subject to the jurisdiction of courts in Hyderabad, Telangana, India only
 
 
