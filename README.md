@@ -1,7 +1,8 @@
 # Project AAB™ 
-### An initiative by AyeAI to simplify creating Github Pages based websites and blogs
+## Abundance for All and Beyond™
+### ... a water-hole for life with AI
 
-
+Launched on Akshaya Tritiya 2024
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
 
