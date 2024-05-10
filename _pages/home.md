@@ -10,8 +10,8 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>Abundance for All &amp Beyond<br>
-  ...a water-hole for life with AI</b><br>
+  <b>Abundance for All &amp Beyond ™<br>
+  ...a water-hole for life with AI ™</b><br>
   <small>
   <a href="about/">More about Project AAB™  </a>
   </small>
@@ -44,7 +44,10 @@ feature_row:
 
 {% include feature_row %}
 
-Project AAB site demonstrates a user friendly template which is suitable for making personal profiles, trainers profile, Course pages, blogs, etc..
+™ "Project AAB", "Abundance for All & Beyond" and "a water-hole for life with AI" are claimed as trademark by Abhishek Choudhary
 
-This site also contains pages that help you to connect with various social media channels, it shows how animations on the site look beautiful, meetings on the site makes life easier.
+(C) Copyright 2024 Abhishek Choudhary. All rights reserved. No usage without written consent and license
+
+All disputes are subject to the jurisdiction of courts in Hyderabad, Telangana, India only
+
 
